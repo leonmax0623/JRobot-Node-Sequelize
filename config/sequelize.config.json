@@ -1,0 +1,34 @@
+{
+  "development": {
+    "username": "yuma",
+    "password": "secret",
+    "database": "yuma",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "yuma",
+    "password": "pass",
+    "database": "yuma_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "yuma",
+    "password": "My_ve(!(!(!=-=strong-pass#!#15f151",
+    "database": "yuma",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "migrating": {
+    "username": "yuma",
+    "password": "secret",
+    "database": "yuma",
+    "host": "jrobot-db",
+    "dialect": "postgres",
+    "logging": false
+  }
+}

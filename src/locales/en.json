@@ -1,0 +1,7 @@
+{
+  "faults": [
+    "I don't understand, please repeat",
+    "The text you say does not match the hint. Try again."
+  ],
+  "compareErrorReplica": "Oops, compare error occured. Try again."
+}

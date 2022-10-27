@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "third-extension-261406",
+  "private_key_id": "67105434c31aacc30bda6511f0ba526688eebdfd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDy/8k2UtUXCW1D\nF0UAS5jMCMATenmGQQM+ga21zJLPWkkcwPogTpVoAS8lI6JdNjdP851jZrrJml8l\nT/h4di0vU6uAqOxn5LvdMdIY1PQq9tqnS8fVTQat7tMd8FJV30DVGHP1e1ZwEquL\nw0JT+ymcxl/r+fO931+V6aiTz6BfPi/Z90LSxE6EcUjx/YBqkKklL8nrF85PbsMs\n2Zvf0nARKofLS1xl0c0QtcBSMKU6P+rT0D94Zy0+95cPwjkNrwEMzEYuU5UBw2hI\nIkxuR+gc4REqgeeY9RoFB3dEVASaCLU2kQfCc7k9GAMaOiBd/Ekpz+cVZygHrvJj\nmlN9gsSRAgMBAAECggEAL8KoeJ3lNgbrS8F6FWnGWWvq3Kk403NZwOJaEx5nSIv1\nTMp9HvZzFSMOch1D31A1pOg76fqaAd/ujXXfX0XS8bdfQQVymaTya7JMGgdZCkzE\ngxc46qqeAnerVPoUJL6hjoCk4f3g6lwxDWJOWhVGg4LV/Zp+Fradoehv8sVfPvin\nAZWpNtqBb0A7NHLqubLU/eIDLheqrJ92aqXVFUxkUyy7ZymywBBb2mCWgMGtwYrc\nDUZKzF4KwCccp+VwJZ/IInCE/gRJ8KjSvZQ0hI972RZ4qf8sOMBQeFNj+hvg+IG/\nHdhmg6oupcHKAt5yVbIRwzZN6Vj2aeI7uEB5IQe09QKBgQD6SdK8ifE8YNYUBzqF\nzAqmBALOaZC3JD9wJJNvRWu+7SdZlWoFHLYyNrT5Hato11ZoTOgad562Em9IgZhy\nSf/E+ZbbCeFBiNi9yckkW4QNdPRreDsUrWc9bewU1GvSY+F9H1ryaY2B0NM0xkE3\nOjTSkqf8pIfjQ3eTW5CqzxfwewKBgQD4i2ElG+8lvWtrhJX122g0/+0Qzx6n8lyY\n2SrQEOvvsYkkJ/xzfelYN/CVQR36o1UJnAa6wx3SsOCw/gN1QkjoM40JEn6b9GZl\nH94DjJL+wY5KER6nW3mlKw20fOhagkHbqemevI4CKUOZJr/T7l56eu7k5yVt7dcH\nYFrgmO+/YwKBgFPgp6INrG2qmjPOFFvAfJUUZQhdsmTd3fCsIUi6ABjVC0nnW8do\nztpXISEXQ1l4SPndRC+ShPrJhMfMvpUWnYOajWbMkdPPk6tO03y+uqtz1XGqskoE\nrsOUcfitE5FHbcrr1iPFIeouXImkIzjp5cfn5CozzWJpOsqEdh/4FTK/AoGBAMHC\nTspSO55tS9f29b1D/boLpjGLdjexnnReIJ0yA+zJt8MjFRCoIQhwG7MPn6JsQHgM\nVca1I4PD9nakn+eC9DlpLtLawy8rWcQOEtMrfNDz7cxaCk6n5m5X4QhKtA0TLOpl\nTMY98mtG5fb4GWXLl4XeXmy+shQ/7XlHqbEcKRNHAoGBAOn56CcIGXAm/Ra9ugob\nz5j1UakGEsF56X93/x81GWiyBcizbQKGe6GnbPBwbg5EjZw7h4rYNO3wZbmnS/D9\nbA8FF5zkjqFNKVUUzNvcDD15xOYNtOchbjfTDN1pteQiAUq3frws1F/wsQVhzb2t\nlNWk0Z4Hyu9PkeaXeg9lHx2p\n-----END PRIVATE KEY-----\n",
+  "client_email": "liquid-service-account@third-extension-261406.iam.gserviceaccount.com",
+  "client_id": "118169000528304680896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/liquid-service-account%40third-extension-261406.iam.gserviceaccount.com"
+}
